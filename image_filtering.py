@@ -1,4 +1,4 @@
-'''Credit : Bimal kumar Sah '''
+'''Author : Bimal kumar Sah '''
 
 
 import cv2
